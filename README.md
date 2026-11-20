@@ -69,7 +69,3 @@ The system uses the **LPC2129 ARM7 microcontroller** to collect sensor data, pro
 ## 👨‍💻 Project Domain
 
 **Embedded Systems | ARM7 | Embedded C | Microcontroller Interfacing**
-
-## 📄 License
-
-This project is intended for educational and learning purposes.
