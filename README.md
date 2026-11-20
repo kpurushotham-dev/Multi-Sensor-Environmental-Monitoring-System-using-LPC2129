@@ -49,21 +49,6 @@ The system uses the **LPC2129 ARM7 microcontroller** to collect sensor data, pro
 5. The processed readings are displayed on the LCD.
 6. UART can be used to transmit sensor readings to a computer or another serial device.
 
-## 📂 Project Structure
-
-\`\`\`text
-Multi-Sensor-Environmental-Monitoring-System/
-│
-├── project_main.c
-├── UART_driver.c
-├── LCD_4bit.c
-├── adc_driver.c
-├── delay.c
-├── Startup.s
-└── README.md
-\`\`\`
-
-## 📚 Learning Outcomes
 
 - Understanding the LPC2129 microcontroller.
 - Developing embedded C programs.
